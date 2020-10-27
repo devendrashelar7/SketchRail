@@ -1,0 +1,7 @@
+/*Loop Number	Direction	Type 	Station Code	Loop Velocity	Uplinks	Uplink lengths	Priority	Cross-over	Down link	Downlink Lengths	Priority	Cross-over	Speed Restriction	SMP	EMP*/
+11	Common	ml	A	15	"111,"	"0.00,"	"1,"	"#,"	"#,"	"0.00,"	"#,"	"#,"	"#,"	"#,"	"#,"
+12	Common	ml	B	15	"121,"	"0.00,"	"1,"	"#,"	"111,"	"0.00,"	"1,"	"#,"	"#,"	"#,"	"#,"
+13	Common	ml	C	15	"131,"	"0.00,"	"1,"	"#,"	"121,"	"0.00,"	"1,"	"#,"	"#,"	"#,"	"#,"
+14	Common	ml	D	15	"141,"	"0.00,"	"1,"	"#,"	"131,"	"0.00,"	"1,"	"#,"	"#,"	"#,"	"#,"
+15	Common	ml	E	15	"151,"	"0.00,"	"1,"	"#,"	"141,"	"0.00,"	"1,"	"#,"	"#,"	"#,"	"#,"
+16	Common	ml	F	15	"#,"	"0.00,"	"#,"	"#,"	"151,"	"0.00,"	"1,"	"#,"	"#,"	"#,"	"#,"

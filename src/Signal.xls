@@ -1,0 +1,80 @@
+Train.No.	10000	UP	
+**************************************
+Block No.	Signal Colour
+-----------------------------------------------
+11	Yellow	
+111	DoubleYellow	
+12	Yellow	
+121	DoubleYellow	
+13	Yellow	
+131	DoubleYellow	
+14	Yellow	
+141	DoubleYellow	
+15	Yellow	
+151	DoubleYellow	
+16	Red	
+	
+Train.No.	66660	DOWN	
+**************************************
+Block No.	Signal Colour
+-----------------------------------------------
+16	Green	
+151	Green	
+25	Green	
+141	Green	
+24	Green	
+131	Yellow	
+23	Green	
+121	Green	
+22	Green	
+111	DoubleYellow	
+21	Red	
+	
+Train.No.	66670	UP	
+**************************************
+Block No.	Signal Colour
+-----------------------------------------------
+11	Yellow	
+111	Green	
+22	Green	
+121	Green	
+23	Green	
+131	Green	
+24	Green	
+141	Green	
+25	Green	
+151	DoubleYellow	
+26	Red	
+	
+Train.No.	66671	DOWN	
+**************************************
+Block No.	Signal Colour
+-----------------------------------------------
+16	DoubleYellow	
+151	Green	
+25	Green	
+141	Green	
+24	Green	
+131	Green	
+23	Green	
+121	Green	
+22	Green	
+111	DoubleYellow	
+21	Red	
+	
+Train.No.	66661	UP	
+**************************************
+Block No.	Signal Colour
+-----------------------------------------------
+11	Green	
+111	Green	
+22	Green	
+121	Green	
+23	Green	
+131	Green	
+24	Green	
+141	Green	
+25	Green	
+151	DoubleYellow	
+26	Red	
+	
